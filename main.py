@@ -6,9 +6,8 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name} xxxxxx there ')  # Press Ctrl+F8 to toggle the breakpoint.
-    print('thiss a new lineeee')
-
+    print(f'Hi, {name} xxxxxx there ')  # Press Ctrl+F8 to toggle the breakpoint
+    print('i wanna commit this line ')
 
 
 # Press the green button in the gutter to run the script.
